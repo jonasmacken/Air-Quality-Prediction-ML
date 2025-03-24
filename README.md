@@ -39,9 +39,36 @@ A simple feedforward neural network:
 
 ## Repository Structure
 
+```text
 ├── air_quality_prediction.ipynb      # Jupyter notebook with code, results, and analysis
 ├── AirQualityUCI_Students.xlsx       # Original training dataset
-├── Generalization_Dataset.xlsx       # Additional dataset for testing/generalization
+├── Generalization_Dataset.xlsx       # Additional dataset for testing/generalisation
 ├── README.md                         # Project documentation
-└── requirements.txt                  # List of Python dependencies                        
+└── requirements.txt                  # List of Python dependencies
+```                 
 
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/jonasmacken/air-quality-prediction-ml.git
+cd air-quality-prediction-ml
+```
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3. Make sure all required files are in the same folder:
+  - air_quality_prediction.ipynb
+  - AirQualityUCI_Students.xlsx
+  - Generalization_Dataset.xlsx
+
+4. Launch the notebook
+```bash
+jupyter notebook air_quality_prediction.ipynb
+```
+
+5. Run all cells to train models and view results
