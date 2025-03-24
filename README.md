@@ -52,7 +52,7 @@ A simple feedforward neural network:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jonasmacken/air-quality-prediction-ml.git
+git clone https://github.com/jonasmacken/Air-Quality-Prediction-ML.git
 cd air-quality-prediction-ml
 ```
 
