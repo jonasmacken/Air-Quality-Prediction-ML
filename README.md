@@ -32,7 +32,7 @@ A simple feedforward neural network:
 
 - 2 hidden layers (ReLU)
 - Linear output layer
-- Mean Squared Error loss
+- Mean squared error loss
 - Metrics: MAE, RMSE (custom)
 
 ---
