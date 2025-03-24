@@ -72,3 +72,9 @@ jupyter notebook air_quality_prediction.ipynb
 ```
 
 5. Run all cells to train models and view results
+
+## Notes
+- This project was originally created for a UNSW assignment on neural networks (COMP9414).
+
+## Author
+Jonas Macken
