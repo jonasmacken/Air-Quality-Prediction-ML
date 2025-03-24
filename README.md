@@ -1,4 +1,4 @@
-# air-quality-prediction-ml
+# Air-Quality-Prediction-ML
 
 This project uses deep learning to model and predict air quality based on historical data. It includes both a regression model (predicting exact pollution levels) and a binary classification model (predicting whether air quality will be above a threshold).
 
